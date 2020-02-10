@@ -1,7 +1,6 @@
 from flask import request
 import requests
 app = Flast(__name__)
-
 import json, datetime
 
 
